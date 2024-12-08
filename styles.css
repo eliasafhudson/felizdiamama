@@ -19,7 +19,7 @@ body {
   overflow: hidden;
   perspective: 1000px;
 }
-.cont{
+#cont{
   padding-bottom: 250px;
 }
 .night {
